@@ -1,7 +1,7 @@
 {
-    "name": "dplayer",
-    "version": "1.25.0",
-    "description": "Wow, such a lovely HTML5 danmaku video player",
+    "name": "dplayer-fork",
+    "version": "1.25.1",
+    "description": "fork deplay",
     "main": "dist/DPlayer.min.js",
     "scripts": {
         "start": "npm run dev",
@@ -18,7 +18,7 @@
         "dist"
     ],
     "repository": {
-        "url": "git+https://github.com/DIYgod/DPlayer.git",
+        "url": "git+https://github.com/ZangaiFamily/DPlayer",
         "type": "git"
     },
     "keywords": [
@@ -27,15 +27,12 @@
         "video",
         "html5"
     ],
-    "gitHooks": {
-        "pre-commit": "npm run format:staged"
-    },
-    "author": "DIYgod",
+    "author": "matrixbirds",
     "license": "MIT",
     "bugs": {
-        "url": "https://github.com/DIYgod/DPlayer/issues"
+        "url": "https://github.com/ZangaiFamily/DPlayer/issues"
     },
-    "homepage": "https://github.com/DIYgod/DPlayer#readme",
+    "homepage": "https://github.com/ZangaiFamily/DPlayer#readme",
     "devDependencies": {
         "@babel/core": "^7.6.0",
         "@babel/preset-env": "^7.4.5",
